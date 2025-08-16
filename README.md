@@ -68,7 +68,7 @@ Whether you're creating visual edits, music loop videos, or aesthetic reels, **V
    - Save path for final video
 4. Customize zoom, BPM, speed, and resolution.
 5. Hit **Generate** and watch the magic.
-6. For Smoothness(60 FPS) Use Flowframe at END (https://nmkd.itch.io/flowframes)
+6. For Smoothness(60 FPS) Use Flowframe at END (https://nmkd.itch.io/flowframes) [Try old version if you are on IGPU] 
 
 ### Option 2: Run from Source (Python)
 
